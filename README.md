@@ -78,7 +78,7 @@ arduino-universe/
 ### 🎓 Free Courses
 This section contains all the materials, notes, and code exercises from online courses (e.g., Udemy, Coursera, freeCodeCamp, YouTube tutorials) that I have completed or am currently studying.
 
-* **[Directory: `01-Free_Courses/`](./FreeCourses)**
+* **[Directory: `01-Free_Courses/`](./Free_Courses)**
 
 ### 🏫 Academic Disciplines
 Here I store all the relevant work from my formal education (university/college) related to embedded systems, IoT, and electronics. This includes lab assignments, lecture notes, and final projects.
